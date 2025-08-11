@@ -1,0 +1,26 @@
+{
+  "mergeRequestIdCounter": 2,
+  "mergeRequests": {
+    "1": {
+      "id": 1,
+      "status": "OPENED",
+      "title": "Initial  Merge",
+      "type": "PROJECT",
+      "branchToMergeType": "LOCAL",
+      "description": "",
+      "baseBranch": "dev",
+      "branchToMerge": "master",
+      "projectToMerge": "DKU_ENERGY_CONSUMPTION",
+      "events": [
+        {
+          "type": "CREATED",
+          "message": "",
+          "author": "fr08720",
+          "creationDate": 1754922894126
+        }
+      ],
+      "refreshedBranchAfterMerge": false,
+      "initialConflictingFiles": []
+    }
+  }
+}
