@@ -196,7 +196,8 @@
     },
     "dkuProperties": []
   },
-  "name": "Energy consumption",
+  "name": "Energy consumption for Brisseau, Johann /FR",
+  "projectStatus": "Sandbox",
   "imgPattern": 4,
   "metrics": {
     "probes": [],
