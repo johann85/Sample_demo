@@ -141,7 +141,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Johann_Test",
+  "name": "Johann_Test (origin/UAT)",
   "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
@@ -205,7 +205,7 @@
     },
     "lastModifiedOn": 1754396140512
   },
-  "shortDesc": "The project *Johann_Test* was created by Brisseau, Johann /FR on Aug 05th 2025",
+  "shortDesc": "The project *Johann_Test* was created by Brisseau, Johann /FR on Aug 05th 2025\nThe project *JOHANN_TEST_ORIGIN_UAT* was copied from *JOHANN_TEST* by Brisseau, Johann /FR on Oct 16th 2025",
   "tags": [],
   "customFields": {},
   "checklists": {
